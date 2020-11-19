@@ -47,7 +47,7 @@ class CreateTodo extends Component {
   }
 };
 
-export default CreateTodo;
+export default CreateTodo; 
 ```
 
 ## Plan for Integrating into Redux
